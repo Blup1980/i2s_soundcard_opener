@@ -1,0 +1,3 @@
+// the configured options and settings for Project
+#define CardOpener_VERSION_MAJOR @CardOpener_VERSION_MAJOR@
+#define CardOpener_VERSION_MINOR @CardOpener_VERSION_MINOR@
